@@ -1,0 +1,11 @@
+C:\Users\tdavi\workspace\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.csprojAssemblyReference.cache
+C:\Users\tdavi\workspace\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.AssemblyInfoInputs.cache
+C:\Users\tdavi\workspace\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.AssemblyInfo.cs
+C:\Users\tdavi\workspace\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.exe
+C:\Users\tdavi\workspace\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.deps.json
+C:\Users\tdavi\workspace\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.runtimeconfig.json
+C:\Users\tdavi\workspace\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.runtimeconfig.dev.json
+C:\Users\tdavi\workspace\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.dll
+C:\Users\tdavi\workspace\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.pdb
+C:\Users\tdavi\workspace\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.dll
+C:\Users\tdavi\workspace\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.pdb
