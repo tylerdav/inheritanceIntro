@@ -50,6 +50,9 @@ namespace inheritanceIntro
             myCessna.Turn ();
             myCessna.stop ();
 
+            double price = 15.00;
+            Console.WriteLine (price.ToString ("C"));
+
         }
     }
 }
